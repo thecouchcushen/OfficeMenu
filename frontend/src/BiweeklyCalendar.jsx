@@ -52,8 +52,8 @@ const BiWeeklyCalendar = () => {
           <Flex key={date} direction="column" alignItems="center">
             <Text textAlign="center">{formatDate(date)}</Text>
             <VStack spacing={2}>
-              <Input placeholder="Lunch menu" />
-              {/* You can add more components for other menu items */}
+                <Input placeholder="Lunch menu" />
+                {/* You can add more components for other menu items */}
             </VStack>
           </Flex>
         ))}
