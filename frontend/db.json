@@ -1,0 +1,28 @@
+{
+    "meals": [
+      {
+        "id": 1,
+        "date": "04/16/2024",
+        "title": "Sesame Schnitzel Chicken Sandwiches",
+        "description": "A chicken schnitzel sandwich with homemade brioche buns, a red cabbage and dill slaw. Topped with harissa-honey, garlic tahini, and pickled onions to top",
+        "ingredients": ["Chicken Breasts", "Trader Joes Harissa", "Garlic", "Tahini", "Onions", "Red Wine Vinegar", "Honey", "Sesame Seeds", "Panko Bread Crumbs", "Salt", "Pepper", "Red Cabbage", "Dill", "Mayo", "Dijon Mustard", "White Wine Vinegar", "Pickles", "Capers", "Flour", "Eggs", "Yeast"],
+        "price": 15.25
+      },
+      {
+        "id": 2,
+        "date": "04/18/2024",
+        "title": "Creamy White Beans and Herb Oil",
+        "description": "Whole white beans in a white bean sauce with lots of olive oil and a parsley and garlic herb oil to top. Homemmade focaccia on the side.",
+        "ingredients": ["Flour", "Olive Oil", "Salt", "Garlic", "Parsley", "Basil", "Cannelini Beans"],
+        "price": 9.00
+      },
+      {
+        "id": 3,
+        "date": "04/23/2024",
+        "title": "BLOAT",
+        "description": "Bacon, Lettuce, Onion, Avocado, Tomato sandwich with a garlic mayonaisse to ease it down your gullet",
+        "ingredients": ["Bacon", "Lettuce", "Onion", "Avocado", "Tomato", "White Bread", "Garlic", "Mayonaisse", "Salt", "Pepper"],
+        "price": 10.50
+      }
+    ]
+  }
